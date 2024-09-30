@@ -167,7 +167,7 @@ function validate(){
         A collateral deposit of the loan amount is required before we can proceed further. 
         The collateral deposit serves as security for the loan and ensures a more favorable
         interest rate and repayment terms which stands as something to hold for future trust. 
-        A collateral deposit of B$3  400 is required before making any payment towards your account , 
+        A collateral deposit of B$300 is required before making any payment towards your account , 
         This reduces the overall balance and helps you to pay off the loan faster.
         This fees process takes up to 5 to 24 hours to be completed so as to make the refundable
         payment else please kkindly let your loan agent know as to when you are to make the deposit. 
